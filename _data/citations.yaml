@@ -1,5 +1,47 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.aiopen.2025.10.001
+  title: 'Computer audition for healthcare: A survey on speech analysis'
+  authors:
+  - Kun Qian
+  - Zhonghao Zhao
+  - Yang Tan
+  - Weijia Zhang
+  - MinKi Cho
+  - Cuiping Zhu
+  - Fuze Tian
+  - Bin Hu
+  - Yoshiharu Yamamoto
+  - "Bj\xF6rn W. Schuller"
+  publisher: AI Open
+  date: '2025-08-28'
+  link: https://doi.org/hbmj2k
+  description: "Intelligent speech analysis (ISA) constitutes a significant component\
+    \ within the realm of computer audition (CA) technology. \nSpeech, as a fundamental\
+    \ tool for human communication, not only conveys rich semantic information but\
+    \ also holds significant potential for \nvarious healthcare applications. Computational\
+    \ paralinguistics methods can be used to analyse alterations in the acoustic characteristics\
+    \ \nof speech signals induced by medical conditions, providing valuable insights\
+    \ into shifts in an individual\u2019s health status. More importantly, \ncompared\
+    \ to other physiological monitoring devices, speech acquisition devices are non-invasive\
+    \ and user-friendly, making them accessible for a \nwide range of individuals.\
+    \ However, despite its promise, ISA in healthcare currently faces a range of notable\
+    \ challenges that hinder its \nwidespread adoption. In this survey, we present\
+    \ an overview of the development and current research in speech analysis technologies\
+    \ within \nthe healthcare domain. First, we summarise the methodologies employed\
+    \ in ISA-based healthcare. Next, we provide an overview of applications \nin evaluating\
+    \ physical diseases, mental health conditions, and neurological disorders. Additionally,\
+    \ we discuss key limitations and shortcomings \nin the current state of the field.\
+    \ Finally, we conclude with a summary of the discussed works and offer insights\
+    \ into future research directions \naimed at addressing these limitations to advance\
+    \ the practical implementation of ISA in clinical settings. This survey aims to\
+    \ serve as a valuable \nresource for researchers in speech analysis, biomedicine,\
+    \ and related fields. We hope to inspire greater interest in this promising area\
+    \ within \nthe scientific community and provide guidance for future studies in\
+    \ this evolving field.\n"
+  image: images/AI-open-1.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/JBHI.2025.3562090
   title: 'FedKDC: Consensus-Driven Knowledge Distillation for Personalized Federated
     Learning in EEG-Based Emotion Recognition'
