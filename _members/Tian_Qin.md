@@ -2,7 +2,7 @@
 name: Tian Qin
 image: images/Tian_Qin.jpg
 role: master
-description: Master Student, 2026, Qin
+description: Master Student, 2026
 aliases:
   - Qin Tian
 links:
