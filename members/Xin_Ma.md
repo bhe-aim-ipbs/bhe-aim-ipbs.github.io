@@ -3,7 +3,7 @@
 name: Xin Ma
 image: images/Xin_Ma.jpg
 role: master
-description: Master Student, 2025, Ma
+description: Master Student, 2025
 aliases:
   - Xin Ma
 links:
