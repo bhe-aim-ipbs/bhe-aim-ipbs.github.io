@@ -4,7 +4,7 @@
 name: Xiaoping Hou
 image: images/Xiaoping_Hou.jpg
 role: master
-description: Master Student, 2026, Hou
+description: Master Student, 2026
 aliases:
   - Xiaoping Hou
 links:
