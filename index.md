@@ -38,7 +38,7 @@ Our new paper entitled “Computer audition for healthcare: A survey on speech a
 
 {%
   include feature.html
-  image="images/AI-open-1.jpg"
+  image="images/AI-open-cover.jpg"
   link="research"
   title="Our Research"
   text=text
