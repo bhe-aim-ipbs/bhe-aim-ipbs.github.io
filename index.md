@@ -7,11 +7,23 @@ Welcome to bhe-aim-ipbs website! Relying on The Key Laboratory of Brain Health I
 
 {% include section.html %}
 
+
+## Research Directions
+The Intelligent Perception of Body Sound Group focuses on three complementary research directions that jointly address data scarcity, deployment efficiency, and collaborative intelligence in real-world audio perception systems:
+### 1. Few-Shot and Low-Resource Learning
+This direction aims to address the fundamental challenge of limited labeled data in body sound perception tasks, particularly in personalized, rare-event, or domain-specific scenarios. We investigate few-shot learning, meta-learning, and representation transfer techniques to enable intelligent agents to rapidly adapt to new users, environments, and sound categories with minimal supervision. By enhancing generalization under data-scarce conditions, this line of research provides a robust learning foundation for scalable and personalized audio perception systems.
+
+### 2. Lightweight and Efficient Model Design
+This direction focuses on developing lightweight, computation-efficient audio perception models suitable for deployment on resource-constrained platforms such as wearable devices, mobile agents, and embedded systems. We explore model compression, knowledge distillation, efficient neural architectures, and hardware-aware optimization to balance recognition accuracy with latency, memory footprint, and energy consumption. The goal is to enable real-time, on-device audio perception that supports continuous interaction and long-term operation of intelligent agents.
+
+### 3. Federated and Privacy-Preserving Learning
+This research direction investigates federated learning frameworks for collaborative audio perception across distributed agents while preserving user privacy and data security. We study communication-efficient aggregation, heterogeneous data modeling, and personalized federated optimization to enable collective learning from decentralized and non-IID audio data. By allowing intelligent agents to improve their perception capabilities without centralized data collection, this direction supports scalable, privacy-aware, and ethically responsible audio intelligence systems.
+
 ## Highlights
 
 {% capture text %}
 
-Our new paper entitled “FedKDC: Consensus-Driven Knowledge Distillation for Personalized Federated Learning in EEG-Based Emotion Recognition” has been accepted and published online by the IEEE Journal of Biomedical and Health Informatics  (IF-2023: 6.7).
+Our new paper entitled “Computer audition for healthcare: A survey on speech analysis” has been accepted and published online by the AI Open  (IF-2024: 14.8).
 
 {%
   include button.html
