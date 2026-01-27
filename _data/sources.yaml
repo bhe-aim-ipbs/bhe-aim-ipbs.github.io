@@ -1,3 +1,21 @@
+- id: doi:10.1016/j.aiopen.2025.10.001
+  description: |
+    Intelligent speech analysis (ISA) constitutes a significant component within the realm of computer audition (CA) technology. 
+    Speech, as a fundamental tool for human communication, not only conveys rich semantic information but also holds significant potential for 
+    various healthcare applications. Computational paralinguistics methods can be used to analyse alterations in the acoustic characteristics 
+    of speech signals induced by medical conditions, providing valuable insights into shifts in an individual’s health status. More importantly, 
+    compared to other physiological monitoring devices, speech acquisition devices are non-invasive and user-friendly, making them accessible for a 
+    wide range of individuals. However, despite its promise, ISA in healthcare currently faces a range of notable challenges that hinder its 
+    widespread adoption. In this survey, we present an overview of the development and current research in speech analysis technologies within 
+    the healthcare domain. First, we summarise the methodologies employed in ISA-based healthcare. Next, we provide an overview of applications 
+    in evaluating physical diseases, mental health conditions, and neurological disorders. Additionally, we discuss key limitations and shortcomings 
+    in the current state of the field. Finally, we conclude with a summary of the discussed works and offer insights into future research directions 
+    aimed at addressing these limitations to advance the practical implementation of ISA in clinical settings. This survey aims to serve as a valuable 
+    resource for researchers in speech analysis, biomedicine, and related fields. We hope to inspire greater interest in this promising area within 
+    the scientific community and provide guidance for future studies in this evolving field.
+  image: images/AI-open-1.jpg
+  date: 2025-08-28
+
 - id: doi:10.1109/JBHI.2025.3562090
   description: |
     Federated learning (FL) has gained prominence in EEG-based emotion recognition due to its ability to enable secure collaborative training without centralized data. 
