@@ -17,10 +17,10 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2022'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and description == 'PhD Student, 2024'" %}
 {% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2024'" %}
-{% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2025, Ma'" %}
-{% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2026, Qin'" %}
-{% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2026, Hou'" %}
-{% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2026, He'" %}
+{% include list.html data="members" component="portrait" filter="role =='master' and description == 'Master Student, 2025'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Tian Qin'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Xiaoping Hou'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Xinyuan He'" %}
 
 {% include section.html %}
 
