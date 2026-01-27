@@ -3,7 +3,7 @@
 name: Xinyuan He
 image: images/Xinyuan_He.jpg
 role: master
-description: Master Student, 2026, He
+description: Master Student, 2026
 aliases:
   - Xinyuan He
 links:
