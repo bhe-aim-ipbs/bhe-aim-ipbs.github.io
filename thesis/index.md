@@ -1,7 +1,7 @@
 ---
 title: Thesis
 nav:
-  order: 3
+  order: 5
   tooltip: Musings and miscellany
 ---
 
