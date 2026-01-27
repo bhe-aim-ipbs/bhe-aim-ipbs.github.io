@@ -1,7 +1,7 @@
 
 
 ---
-name: Xinyuan He
+name: Xiaoping Hou
 image: images/Xiaoping_Hou.jpg
 role: master
 description: Master Student, 2026, Hou
