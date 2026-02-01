@@ -1,7 +1,7 @@
 ---
 name: Li Gu
 image: images/Li Gu.jpg
-role: phd
+role: Undergraduate
 description: Undergraduate Student, 2024
 aliases:
   - Li Gu
