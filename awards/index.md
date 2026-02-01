@@ -13,15 +13,24 @@ nav:
 
 ## 2025
 <ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
-  <li style="margin-bottom: 15px; line-height: 1.5;">Haojie Zhang, 医工榜样-科研创新榜样, School of Medical Technology, Beijing Institute of Technology, China, June 2025.</li>
+  <li style="margin-bottom: 15px; line-height: 1.5;">Yifan Feng, Haojie Zhang, Ruobing Li, Rui Wang, Third Prize (National Level), The 7th China Graduate AI Innovation Competition (“华为杯”中国研究生人工智能创新大赛), China, October 2025.</li>
+</ol>
+<ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
+  <li style="margin-bottom: 15px; line-height: 1.5;">Wanyong Qiu, Outstanding Doctoral Dissertations, Beijing Institute of Technology, China, June 2025.</li>
+</ol>
+<ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
+  <li style="margin-bottom: 15px; line-height: 1.5;">Yang Tan, Outstanding Graduate, Beijing Institute of Technology, China, June 2025.</li>
+</ol>
+<ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
+  <li style="margin-bottom: 15px; line-height: 1.5;">Outstanding Graduate, Beijing Institute of Technology, China, June 2025.</li>
 </ol>
 
 ## 2024
 <ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
-  <li style="margin-bottom: 15px; line-height: 1.5;">Haojie Zhang, Mengkai Sun, Zhonghao Zhao, Wanyong Qiu, Third Prize (National Level), The 6th China Graduate AI Innovation Competition (“华为杯”中国研究生人工智能创新大赛), China, September 2024.</li>
+  <li style="margin-bottom: 15px; line-height: 1.5;">Wanyong Qiu, Excellent Postgraduate Student, Beijing Institute of Technology, China, November 2024.</li>
+</ol>
+<ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
+  <li style="margin-bottom: 15px; line-height: 1.5;">Zhonghao Zhao, Wanyong Qiu, Haojie Zhang, Mengkai Sun, Jiuhao Zhou, Third Prize (National Level), The 9th National Biomedical Engineering Innovation Design Competition for College Students (全国大学生生物医学工程创新设计竞赛), China, July 2024.</li>
 </ol>
 
-## 2022
-<ol style="list-style-type: decimal; padding-left: 20px; font-family: Arial, sans-serif;">
-  <li style="margin-bottom: 15px; line-height: 1.5;">Ruobing Li, Cheng Zhang, Zechao Lv, Yushi Zhu, Mengxuan Hu, Han Feng, and Tianhao Jia, The 13th Challenge Cup Students’ Business Plan Competition, Silver Award (University Level), Beijing Institute of Technology, China, July 2022.</li>
-</ol>
+
