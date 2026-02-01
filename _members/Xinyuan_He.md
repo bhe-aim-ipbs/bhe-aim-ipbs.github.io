@@ -1,4 +1,3 @@
-
 ---
 name: Xinyuan He
 image: images/Xinyuan_He.jpg
