@@ -22,7 +22,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="name == 'Tian Qin'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Xiaoping Hou'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Xinyuan He'" %}
-{% include list.html data="members" component="portrait" filter="name == 'Boyang Meng" %}
+{% include list.html data="members" component="portrait" filter="name == 'Boyang Meng'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Li Gu'" %}
 
 {% include section.html %}
