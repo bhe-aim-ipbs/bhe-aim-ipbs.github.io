@@ -10,4 +10,5 @@ links:
 ---
 
 
-He is a postdoctoral fellow at the Faculty of Science and Engineering, Waseda University. He received his PhD degree from Beijing Institute of Technology and is affiliated with the Key Laboratory of Brain Health Intelligent Evaluation and Intervention (Ministry of Education, P. R. China). His research interests lie in trustworthy and privacy-preserving AI for healthcare, with a focus on federated learning, multimodal medical intelligence and Privacy-Preserving LLMs/LMMs in Healthcare.
+Wanyong Qiu is a postdoctoral fellow at the Faculty of Science and Engineering, Waseda University. He received his PhD degree from Beijing Institute of Technology and is affiliated with the Key Laboratory of Brain Health Intelligent Evaluation and Intervention (Ministry of Education, P. R. China). His research interests lie in trustworthy and privacy-preserving AI for healthcare, with a focus on federated learning, multimodal medical intelligence and Privacy-Preserving LLMs/LMMs in Healthcare.
+
