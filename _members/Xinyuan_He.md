@@ -10,4 +10,4 @@ links:
   email: hexiny000@163.com
 ---
 
-Cuiping Zhu received the B.S. degree from School of Physics and Electronic Engineering, Sichuan Normal University, Sichuan, China, in 2023. She is currently pursuing the M.S. degree with the School of Medical Technology, Beijing Institute of Technology, Beijing, China. Her research interests include biomedical signal processing, machine learning and deep learning. 
+Xinyuan He received the B.E. degree from Beijing Jiaotong University, Beijing, China, in 2026. She is currently working toward the M.S. degree in computer technology at the School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. Her research interests include intelligent audio perception for healthcare monitoring, physiological signal processing, and wearable computing.
