@@ -1,4 +1,3 @@
-
 ---
 name: Xin Ma
 image: images/Xin_MA.png
