@@ -4,7 +4,7 @@ image: images/Tian_Qin.jpg
 role: master
 description: Master Student, 2026
 aliases:
-  - Qin Tian
+  - Tian Qin
 links:
   email: tsingtian@gmail.com
 ---
