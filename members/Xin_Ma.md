@@ -1,7 +1,7 @@
 
 ---
 name: Xin Ma
-image: images/Xin_Ma.jpg
+image: images/Xin_MA.png
 role: master
 description: Master Student, 2025
 aliases:
@@ -10,4 +10,4 @@ links:
   email: m_x@bit.edu.com
 ---
 
-Cuiping Zhu received the B.S. degree from School of Physics and Electronic Engineering, Sichuan Normal University, Sichuan, China, in 2023. She is currently pursuing the M.S. degree with the School of Medical Technology, Beijing Institute of Technology, Beijing, China. Her research interests include biomedical signal processing, machine learning and deep learning. 
+Xin Ma received the Bachelor of Engineering degree in Internet of Things Engineering from Zhengzhou University in 2025. He is currently pursuing the Master of Science degree at the School of Medical Technology, Beijing Institute of Technology. His research interests include biomedical signal processing, deep learning, and wearable devices.
