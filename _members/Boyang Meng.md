@@ -1,7 +1,7 @@
 ---
 name: Boyang Meng
 image: images/Boyang Meng.jpg
-role: Undergraduate
+role: undergrad
 description: Undergraduate student, 2024
 aliases:
   - Boyang Meng
