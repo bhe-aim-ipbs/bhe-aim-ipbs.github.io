@@ -1,7 +1,7 @@
 ---
 name: Li Gu
 image: images/Li Gu.jpg
-role: Undergraduate
+role: undergrad
 description: Undergraduate Student, 2024
 aliases:
   - Li Gu
